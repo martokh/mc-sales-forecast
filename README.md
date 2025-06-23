@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Monte Carlo Sales Forecast
 
 **Author:** Martin Hristov    
@@ -49,3 +50,5 @@ Run the simulation:
 (Your numbers may vary per run.)
 
 ## License
+MIT License © Martin Hristov
+>>>>>>> origin/main
