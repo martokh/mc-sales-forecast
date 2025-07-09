@@ -21,7 +21,7 @@ This script performs a Monte Carlo simulation to forecast weekly and annual sale
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mc-sales-forecast.git
+   git clone https://github.com/martokh/mc-sales-forecast.git
    cd mc-sales-forecast
 2. Create a virtual environment (optional but recommended):
    ```bash
